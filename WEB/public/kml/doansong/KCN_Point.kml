@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KCN_Point.kml</name>
+	    <Style id="IconStyle10">
+        <IconStyle>
+            <scale>0.2</scale>
+            <Icon>
+                <href>/images/icon/marker.png</href>
+            </Icon>
+        </IconStyle>
+        <LabelStyle>
+            <color>ff0000ff</color>
+            <scale>0.666667</scale>
+        </LabelStyle>
+        <PolyStyle>
+            <color>ff000000</color>
+            <outline>0</outline>
+        </PolyStyle>
+    </Style>
+	<Folder id="FeatureLayer1">
+		<name>KCN_Point</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_10000">
+			<name>KCN Đông Dung Quất</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KCN Đông Dung Quất</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>STT</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>KCN Đông Dung Quất</td>
+
+</tr>
+
+<tr>
+
+<td>Vi_tri</td>
+
+<td>Xã Bình Đông, Bình Thuận, huyện Bình Sơn, tỉnh Quảng Ngãi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nganh_nghe</td>
+
+<td>Công nghiệp nặng, công nghiệp lọc hóa dầu, đóng tàu, cơ khí, luyện kim, luyện cán thép, công nghiệp hỗ trợ, dịch vụ hậu cần cảng biển</td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle10</styleUrl>
+			<Point>
+				<coordinates>108.797646016069,15.3813779024843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_10001">
+			<name>KCN Tây Dung Quất</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KCN Tây Dung Quất</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>STT</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>KCN Tây Dung Quất</td>
+
+</tr>
+
+<tr>
+
+<td>Vi_tri</td>
+
+<td>Xã Bình Thạnh, Bình Chánh, huyện Bình Sơn, tỉnh Quảng Ngãi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nganh_nghe</td>
+
+<td>Công nghiệp nhẹ, công nghiệp hỗ trợ, điện khí, dịch vụ hậu cần sân bay Logistics</td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle10</styleUrl>
+			<Point>
+				<coordinates>108.7524225656927,15.36285525247303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_10002">
+			<name>KCN Bình Hòa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KCN Bình Hòa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>STT</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>KCN Bình Hòa</td>
+
+</tr>
+
+<tr>
+
+<td>Vi_tri</td>
+
+<td>Xã Bình Hòa, Bình Phước, huyện Bình Sơn, tỉnh Quảng Ngãi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nganh_nghe</td>
+
+<td>Công nghiệp nhẹ, đa ngành</td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle10</styleUrl>
+			<Point>
+				<coordinates>108.8161825445001,15.29766849086803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_10003">
+			<name>KCN VSIP</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KCN VSIP</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>STT</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>KCN VSIP</td>
+
+</tr>
+
+<tr>
+
+<td>Vi_tri</td>
+
+<td>Xã Tịnh Phong, huyện Sơn Tịnh, tỉnh Quảng Ngãi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nganh_nghe</td>
+
+<td>Chế biến lương thực thực phẩm, chế tạo và lắp ráp đồ điện tử, ô tô, phụ kiện máy tính và điện thoại, sản xuất hàng tiêu dùng</td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>3</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle10</styleUrl>
+			<Point>
+				<coordinates>108.7937207006797,15.21211207679778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_10004">
+			<name>KCN Tịnh Phong</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KCN Tịnh Phong</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>STT</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>KCN Tịnh Phong</td>
+
+</tr>
+
+<tr>
+
+<td>Vi_tri</td>
+
+<td>Xã Tịnh Phong, huyện Sơn Tịnh, tỉnh Quảng Ngãi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nganh_nghe</td>
+
+<td>Khu công nghiệp hỗ trợ chế biến gỗ, bao bì và vật liệu xây dựng</td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>4</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle10</styleUrl>
+			<Point>
+				<coordinates>108.7974658099019,15.1968965556494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_10005">
+			<name>KCN Quảng Phú</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KCN Quảng Phú</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>STT</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>KCN Quảng Phú</td>
+
+</tr>
+
+<tr>
+
+<td>Vi_tri</td>
+
+<td>Phường Quảng Phú, TP. Quảng Ngãi, tỉnh Quảng Ngãi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nganh_nghe</td>
+
+<td>Chế biến thủy sản, đồ uống, sản xuất bao bì</td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>5</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle10</styleUrl>
+			<Point>
+				<coordinates>108.7678451503359,15.1192998599505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_10006">
+			<name>KCN Phổ Phong</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KCN Phổ Phong</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>STT</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>KCN Phổ Phong</td>
+
+</tr>
+
+<tr>
+
+<td>Vi_tri</td>
+
+<td>Xã Phổ Phong, Phổ Nhơn, TX. Đức Phổ, tỉnh Quảng Ngãi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nganh_nghe</td>
+
+<td>Chế biến nông lâm sản, ngành CN nhẹ ít gây ô nhiễm</td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>6</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle10</styleUrl>
+			<Point>
+				<coordinates>108.8718308670145,14.83823226034235,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

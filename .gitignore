@@ -1,0 +1,47 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+WEB/node_modules
+WEB/.pnp
+WEB/.pnp.js
+
+# testing
+WEB/coverage
+
+# next.js
+WEB/.next/
+WEB/out/
+
+# production
+WEB/build
+
+# misc
+WEB/.DS_Store
+WEB/*.pem
+
+# debug
+WEB/npm-debug.log*
+WEB/yarn-debug.log*
+WEB/yarn-error.log*
+
+# local env files
+WEB/.env.local
+WEB/.env.development.local
+WEB/.env.test.local
+WEB/.env.production.local
+
+# vercel
+WEB/.vercel
+
+# typescript
+WEB/*.tsbuildinfo
+
+/WEB/.vscode
+/WEB/package-lock.json
+
+# api
+/API/tnmt_qn/bin
+/API/tnmt_qn/obj
+/API/.vs
+/API/tnmt_qn/Properties/PublishProfiles
+
