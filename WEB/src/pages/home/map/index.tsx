@@ -19,7 +19,7 @@ const HomeMap = () => {
     <Paper elevation={3} sx={{ position: 'relative', height: 'calc(100vh - 170px)' }}>
       <Paper elevation={3} sx={{ py: 0.5, BorderRadius: 0, textAlign: 'center' }}>
         <Typography variant='overline' sx={{ fontWeight: 'bold' }}>
-          Bản đồ trạng thái công trình
+          Bản đồ 
         </Typography>
       </Paper>
      
